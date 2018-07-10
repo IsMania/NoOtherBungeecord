@@ -1,0 +1,4 @@
+bungeecord:
+  ip: 0.0.0.1
+  messages:
+    not_autorized: &cYou are not autorized to connect with this bungeecord !
